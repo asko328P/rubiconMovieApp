@@ -1,7 +1,7 @@
 Movie app for Rubicon
 Made using TMDB api with React, TypeScript and Redux
 
-
+<pre>
 [ ]/RubiconMovieApp/
  ├─────[ ]src/
  │      ├─────[ ]components/
@@ -74,3 +74,5 @@ Made using TMDB api with React, TypeScript and Redux
  ├─────package.json
  ├─────tsconfig.json
  └─────yarn-error.log
+ 
+ </pre>
