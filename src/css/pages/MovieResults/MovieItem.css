@@ -1,0 +1,69 @@
+.MovieItem{
+    width: 160px;
+    min-width: 130px;
+    max-width: 160px;
+    min-height: 305px;
+    max-height: 305px;
+    border-radius: 11px;
+    border: 2px solid rgb(211,211,211);
+    padding: 2px;
+    box-shadow: 2px 2px 10px 1px #97C3EB;
+    margin: 2px;
+    cursor: pointer;
+
+
+}
+.MovieItem:hover{
+    width: 160px;
+    min-width: 130px;
+    max-width: 160px;
+    min-height: 305px;
+    max-height: 305px;
+    border-radius: 11px;
+    border: 2px solid rgb(211,211,211);
+    padding: 2px;
+    box-shadow: 2px 2px 10px 1px #0EF1D8;
+    margin: 2px;
+    cursor: pointer;
+}
+.posterImage{
+    border-radius: 11px;
+    max-width: 98%;
+}
+.movieTitle{
+    font-family: Cabin;
+    width: 150px;
+    padding: 2%;
+    position: absolute;
+    bottom: -6px;
+}
+
+/*
+.MovieItem{
+    min-width: 160px;
+    max-width: 160px;
+    min-height: 305px;
+    max-height: 305px;
+    border-radius: 11px;
+    border: 2px solid rgb(211,211,211);
+    padding: 2px;
+
+
+    box-shadow: 2px 2px 10px 1px #ccc;
+    margin: 2px;
+    cursor: pointer;
+
+
+}
+.posterImage{
+
+    border-radius: 11px;
+
+    max-width: 98%;
+}
+.movieTitle{
+    padding: 2%;
+    position: absolute;
+    bottom: 0;
+}
+ */

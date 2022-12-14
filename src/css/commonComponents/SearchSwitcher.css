@@ -1,0 +1,26 @@
+.searchSwitcher-wrapper{
+    display: block;
+    padding-left: 5vw;
+    margin: auto;
+    padding-top: 5vh;
+}
+button {
+    margin-right: 10px;
+    border: 1px solid #0066cc;
+    background-color: white;
+    color: #509CBE;
+    padding: 5px 10px;
+}
+button:hover {
+    border: 1px solid #0099cc;
+    background-color: #00aacc;
+    color: #ffffff;
+    padding: 5px 10px;
+}
+button:disabled,
+button[disabled]{
+    border: 5px solid #509CBE;
+    background-color: white;
+    color: #509CBE;
+    border-radius: 5px;
+}

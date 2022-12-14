@@ -1,0 +1,24 @@
+.movieDetailCard{
+    display: block;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    margin: auto;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.backButton{
+    margin-right: 10px;
+    border: 1px solid #0066cc;
+    background-color: white;
+    color: #509CBE;
+    padding: 5px 10px;
+}
+
+.movieDetailCardPoster{
+    max-height: 300px;
+}
+.movieDetailCardTitle{
+    font-family: Cabin;
+    font-size: 20px;
+    font-weight: bold;
+}

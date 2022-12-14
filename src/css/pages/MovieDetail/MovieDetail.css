@@ -1,0 +1,17 @@
+.movieDetail{
+    display: inline-block;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    margin: auto;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.backButton{
+    margin-left: 5vw;
+    margin-right: 10px;
+    border: 1px solid #0066cc;
+    background-color: white;
+    color: #509CBE;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
